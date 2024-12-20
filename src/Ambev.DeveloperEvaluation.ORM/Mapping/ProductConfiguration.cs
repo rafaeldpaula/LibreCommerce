@@ -10,16 +10,35 @@ namespace Ambev.DeveloperEvaluation.ORM.Mapping
         {
             builder.ToTable("Products");
             
-            builder.HasKey(x => x.Id);
-            builder.Property(x => x.Id).ValueGeneratedOnAdd().UseIdentityColumn();
+            builder.HasKey(x => x.ProductId);
+            builder.Property(x => x.ProductId)
+                .HasColumnName("Id")
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
 
-            builder.Property(x => x.Title).IsRequired().HasMaxLength(100);
-            builder.Property(x => x.Price).HasColumnType("decimal(18,2)");
-            builder.Property(x => x.Description).HasMaxLength(500);
-            builder.Property(x => x.Category).IsRequired().HasMaxLength(100);
-            builder.Property(x => x.Image).IsRequired().HasMaxLength(2048);
-            builder.Property(x => x.Rate).HasColumnType("decimal(18,2)");
-            builder.Property(x => x.Count).HasColumnType("int");
+            builder.Property(x => x.Title)
+                .IsRequired()
+                .HasMaxLength(100);
+
+            builder.Property(x => x.Price)
+                .HasColumnType("decimal(18,2)");
+
+            builder.Property(x => x.Description)
+                .HasMaxLength(500);
+
+            builder.Property(x => x.Category)
+                .IsRequired()
+                .HasMaxLength(100);
+
+            builder.Property(x => x.Image)
+                .IsRequired()
+                .HasMaxLength(2048);
+
+            builder.Property(x => x.Rate)
+                .HasColumnType("decimal(18,2)");
+
+            builder.Property(x => x.Count)
+                .HasColumnType("int");
         }
     }
 }
