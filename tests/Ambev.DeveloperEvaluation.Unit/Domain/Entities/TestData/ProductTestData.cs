@@ -28,4 +28,14 @@ public static class ProductTestData
     {
         return productFaker.Generate(5);
     }
+
+    public static string GenerateValidImageUrl()
+    {
+        return new Faker().Internet.Url();
+    }
+
+    public static string GenerateInvalidImageUrl()
+    {
+        return new Faker().Lorem.Word();
+    }
 }

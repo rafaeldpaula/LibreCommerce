@@ -29,4 +29,16 @@ public class Product : BaseEntity
             Errors = result.Errors.Select(o => (ValidationErrorDetail)o)
         };
     }
+
+    public void Deactivate()
+    {
+        UpdatedAt = DateTime.UtcNow;
+        Status = ProductStatus.Inactive;
+    }
+
+    public void Activate()
+    {
+        UpdatedAt = DateTime.UtcNow;
+        Status = ProductStatus.Active;
+    }
 }
