@@ -21,7 +21,7 @@ public class Product : BaseEntity
 
     public ValidationResultDetail Validate()
     {
-        var validator = new ProductValidator();
+        var validator = new ProductCommandValidator();
         var result = validator.Validate(this);
         return new ValidationResultDetail
         {

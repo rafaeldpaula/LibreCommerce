@@ -6,13 +6,13 @@ using Xunit;
 
 namespace Ambev.DeveloperEvaluation.Unit.Domain.Validation;
 
-public class ProductValidatorTests
+public class GetProductCommandValidatorTests
 {
-    readonly ProductValidator _productValidator;
+    readonly ProductCommandValidator _productCommandValidator;
 
-    public ProductValidatorTests()
+    public GetProductCommandValidatorTests()
     {
-        _productValidator = new ProductValidator();
+        _productCommandValidator = new ProductCommandValidator();
     }
 
     [Fact(DisplayName = "Should return true if product is valid")]
@@ -20,7 +20,7 @@ public class ProductValidatorTests
     {
         var product = ProductTestData.GenerateValidProduct();
 
-        var result = _productValidator.TestValidate(product);
+        var result = _productCommandValidator.TestValidate(product);
 
         result.ShouldNotHaveValidationErrorFor(x => x.ProductId);
     }

@@ -3,9 +3,9 @@ using FluentValidation;
 
 namespace Ambev.DeveloperEvaluation.Domain.Validation;
 
-public class ProductValidator : AbstractValidator<Product>
+public class ProductCommandValidator : AbstractValidator<Product>
 {
-    public ProductValidator()
+    public ProductCommandValidator()
     {
         RuleFor(product => product.Title)
             .NotEmpty()
