@@ -1,0 +1,14 @@
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.De.3B55B412.Up2Date
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Common.dll
+D:\Desenv\TestAmbev\src\Ambev.DeveloperEvaluation.Domain\Ambev.DeveloperEvaluation.WebApi\appsettings.json\net8.0\Ambev.DeveloperEvaluation.Common.pdb
