@@ -1,0 +1,14 @@
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.csproj.AssemblyReference.cache
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.AssemblyInfoInputs.cache
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.AssemblyInfo.cs
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.sourcelink.json
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\Ambev.De.3B55B412.Up2Date
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.dll
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\refint\LibreCommerce.Domain.dll
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.pdb
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Domain.deps.json
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\ref\LibreCommerce.Domain.dll
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Common.dll
+D:\Desenv\TestAmbev\src\LibreCommerce.Domain\LibreCommerce.WebApi\appsettings.json\net8.0\LibreCommerce.Common.pdb
