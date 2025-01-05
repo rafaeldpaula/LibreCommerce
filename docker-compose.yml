@@ -1,12 +1,12 @@
 version: "3.8"
 
 services:
-  ambev.developerevaluation.webapi:
+  LibreCommerce.webapi:
     container_name: ambev_developer_evaluation_webapi
     image: ${DOCKER_REGISTRY-}ambevdeveloperevaluationwebapi
     build:
       context: .
-      dockerfile: src/Ambev.DeveloperEvaluation.WebApi/Dockerfile
+      dockerfile: src/LibreCommerce.WebApi/Dockerfile
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_HTTP_PORTS=8080
@@ -18,7 +18,7 @@ services:
       - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
       - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
 
-  ambev.developerevaluation.database:
+  LibreCommerce.database:
     container_name: ambev_developer_evaluation_database
     image: postgres:13
 
@@ -30,7 +30,7 @@ services:
       - "5432"
     restart: unless-stopped
 
-  ambev.developerevaluation.nosql:
+  LibreCommerce.nosql:
     container_name: ambev_developer_evaluation_nosql
     image: mongo:8.0
     environment:
@@ -39,7 +39,7 @@ services:
     ports:
       - "27017"
 
-  ambev.developerevaluation.cache:
+  LibreCommerce.cache:
     container_name: ambev_developer_evaluation_cache
     image: redis:7.4.1-alpine
     command: redis-server --requirepass ev@luAt10n
